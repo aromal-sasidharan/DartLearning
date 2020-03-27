@@ -9,4 +9,3 @@ void main(List<String> arguments) {
   functionWithParameters("aromal"); // calling a function without aliases
   functionWithNamedParameter(name: "mahesh");
 }
-``
