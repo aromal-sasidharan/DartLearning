@@ -5,5 +5,5 @@ import 'package:DartLearning/functions/FunctionWithParameters.dart';
 void main(List<String> arguments) {
   print('Hello world: ${DartLearning.calculate()}!');
   Functions.printMe();
-  functionWithParameters("aromal"); // calling function without aliases
+  functionWithParameters("aromal"); // calling a function without aliases
 }
