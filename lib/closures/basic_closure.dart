@@ -8,5 +8,5 @@ void execute() {
   names.add("mahesh");
   names.add("pankaj");
   final uppercasedNames  = names.map(UpperCasePrinter);
-  print("upper cased names ${uppercasedNames}");
+  print('upper cased names ${uppercasedNames}');
 }
