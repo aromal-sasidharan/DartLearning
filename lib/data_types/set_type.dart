@@ -17,7 +17,7 @@ void execute() {
  print(set1.intersection(set2));
  print("intersection of set1 $set1 with set2 $set2");
 
- final array1 = <String>{"aromal", "arun", "asha", "lisha", ""}
+ 
 
 
 }
